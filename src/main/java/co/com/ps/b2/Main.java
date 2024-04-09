@@ -1,2 +1,2 @@
-package co.com.ps.b2;public class Main {
-}
+//package co.com.ps.b2;public class Main {
+//}

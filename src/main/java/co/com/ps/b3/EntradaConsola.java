@@ -1,2 +1,2 @@
-package co.com.ps.b3;public class EntradaConsola {
-}
+//package co.com.ps.b3;public class EntradaConsola {
+//}
